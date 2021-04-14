@@ -1,1 +1,3 @@
-# program_with_params_stand
+# Information
+Author: WokasWokas
+function: It's default python program for reading params of console line
